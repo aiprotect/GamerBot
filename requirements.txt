@@ -1,0 +1,17 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+click==8.1.8
+colorama==0.4.6
+filetype==1.2.0
+gTTS==2.5.4
+idna==3.11
+jalali_core==1.0.0
+jdatetime==5.2.0
+mutagen==1.47.0
+pillow==12.1.0
+pycryptodome==3.23.0
+pyrubi==3.6.0
+requests==2.32.5
+tqdm==4.67.2
+urllib3==2.6.3
+websocket-client==1.9.0
